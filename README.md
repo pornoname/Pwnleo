@@ -25,7 +25,3 @@ Sileo focuses on speed, features, and a modern feel. It is made with love by peo
         
 3. Apply our git hooks by running: `git config core.hooksPath .githooks`
 4. Open `Sileo.xcodeproj` and have at it!
-
-If you have questions, ask in the Sileo Discord server.
-
-
