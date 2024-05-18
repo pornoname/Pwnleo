@@ -10,7 +10,7 @@ Sileo focuses on speed, features, and a modern feel. It is made with love by peo
 
 1. Clone this repository
     ```sh
-    git clone --recursive https://github.com/Sileo/Sileo
+    git clone https://github.com/BananeRapeuse/Pwnleo
     ```
 2. Set the `DEVELOPMENT_TEAM` Build Setting
     
